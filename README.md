@@ -1,1 +1,1 @@
-# Quizzical---Trivia-Game
+# Quizzical Trivia-Game
